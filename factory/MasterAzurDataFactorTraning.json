@@ -1,0 +1,9 @@
+{
+	"name": "MasterAzurDataFactorTraning",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f38731bc-5098-4b0c-b1c5-0d0eb2787269",
+		"tenantId": "60f6c71e-bd5f-41ad-8333-e5fcd08663d5"
+	}
+}
